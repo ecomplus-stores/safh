@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/safh",
   "logo": "/img/uploads/s-da-safh-marca.jpg",
   "name": "safh",
-  "short_name": "safh",
+  "short_name": "Safh",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,9 +18,9 @@
   "favicon": "/img/uploads/s-da-safh-marca.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#e9aee4",
   "icon": "/img/uploads/s-da-safh-marca.jpg",
   "store_id": 16849,
-  "description": "safh",
+  "description": "Nossas peças são versáteis e produzidas com originalidade e inspiram a autoexpressão e a beleza autêntica presente na trajetória de cada um.",
   "large_icon": "/img/uploads/s-da-safh-marca.jpg"
 }
