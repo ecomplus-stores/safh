@@ -1,26 +1,26 @@
 {
-  "store_id": 16849,
-  "name": "safh",
   "domain": "www.safh.com",
-  "repository": "ecomplus-stores/safh",
-  "short_name": "safh",
-  "description": "safh",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#9e007e",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/safh",
+  "logo": "/img/uploads/s-da-safh-marca.jpg",
+  "name": "safh",
+  "short_name": "safh",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/s-da-safh-marca.jpg",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/s-da-safh-marca.jpg",
+  "store_id": 16849,
+  "description": "safh",
+  "large_icon": "/img/uploads/s-da-safh-marca.jpg"
 }
