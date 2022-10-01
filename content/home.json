@@ -3,8 +3,16 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/sem-titulo-2site-amanda-2.jpg"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/sem-titulo-2site-amanda.jpg"
+        },
+        {
+          "img": "/img/uploads/sem-titulo-2site-amanda-2.jpg",
+          "mobile_img": ""
+        }
+      ]
     },
     {
       "type": "info-bar",
@@ -12,7 +20,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": null,
       "sort": "news",
       "title": "",
