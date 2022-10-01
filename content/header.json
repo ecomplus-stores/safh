@@ -18,8 +18,14 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/brincos?Brincos",
+      "/colares?Colares",
+      "/braceletes?Braceletes",
+      "/pulseira?Pulseira",
+      "/objetos?Objetos"
+    ],
+    "random": 0,
     "full_width": false
   },
   "desktop_megamenu": false,
