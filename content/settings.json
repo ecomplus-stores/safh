@@ -1,7 +1,8 @@
 {
   "store_id": 16849,
   "name": "safh",
-  "domain": "safh.netlify.app",
+  "domain": "www.safh.com",
+  "repository": "ecomplus-stores/safh",
   "short_name": "safh",
   "description": "safh",
   "primary_color": "#222831",
