@@ -21,6 +21,15 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "633dfc9a73321213f89e0db3:collections:Infanto-Juvenil:/infanto-juvenil",
+      "sort": "news",
+      "title": ""
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "collection_id": null,
       "sort": "sales",
       "title": "",
