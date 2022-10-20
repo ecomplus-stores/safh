@@ -23,15 +23,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "633dfc9a73321213f89e0db3:collections:Infanto-Juvenil:/infanto-juvenil",
-      "sort": "news",
-      "title": ""
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "6351990a73321213f8b591e6:collections:Copa:/copa",
       "sort": "news"
     },
@@ -44,6 +35,15 @@
       "headless": false,
       "limit": 17,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "633dfc9a73321213f89e0db3:collections:Infanto-Juvenil:/infanto-juvenil",
+      "sort": "news",
+      "title": ""
     },
     {
       "type": "dynamic-showcase",
