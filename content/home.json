@@ -30,6 +30,14 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6351990a73321213f8b591e6:collections:Copa:/copa",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "collection_id": "620420057963422eeef6aa37:collections:Queridinhos:/queridinhos",
       "sort": "sales",
       "title": "",
