@@ -33,7 +33,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6351990a73321213f8b591e6:collections:Copa:/copa",
-      "sort": "news"
+      "sort": "news",
+      "title": "Pré-lançamento Copa"
     },
     {
       "type": "collection-shelf",
