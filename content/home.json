@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -13,10 +17,6 @@
           "mobile_img": "/img/uploads/sem-titulo-2site-amanda-2.jpg"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
