@@ -1142,13 +1142,13 @@
     </url>
   
     <url>
-      <loc>https://www.safh.com/pages/termos</loc>
+      <loc>https://www.safh.com/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.safh.com/pages/trocas</loc>
+      <loc>https://www.safh.com/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
