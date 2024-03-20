@@ -21,7 +21,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": "620420057963422eeef6aa37:collections:Queridinhos:/queridinhos",
       "sort": "news",
       "title": "",
