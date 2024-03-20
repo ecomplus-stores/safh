@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ea746f2fe7867f11beb5f60ecbe9f2d5.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.b3a00bab14c4ef8ef62172dbe7fb379a.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.34c3c0be41a8811f05acb822adf61f47.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.de24b9e7e0e84aa88224311884e2658a.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.8324b1c1f30c8f4d5d7553d2d5843bb9.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "safh",
+  "short_name": "Safh",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Nossas peças são versáteis e produzidas com originalidade e inspiram a autoexpressão e a beleza autêntica presente na trajetória de cada um.",
+  "background_color": "#ffffff",
+  "theme_color": "#9e007e"
+}
