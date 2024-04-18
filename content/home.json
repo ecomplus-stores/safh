@@ -10,12 +10,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/teste.jpg",
-          "mobile_img": "/img/uploads/whatsapp-image-2023-03-22-at-15.04.56.jpeg"
+          "img": "/img/uploads/site2.jpeg"
         },
         {
-          "img": "/img/uploads/mari3-1-.jpg",
-          "mobile_img": "/img/uploads/mari1-1-.jpg"
+          "img": "/img/uploads/site1.jpeg"
         }
       ]
     },
