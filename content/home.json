@@ -19,7 +19,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "662d2ac6ee85900185ee57bd:collections:Solar:/solar"
