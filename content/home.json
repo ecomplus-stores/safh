@@ -20,6 +20,13 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "662d2ac6ee85900185ee57bd:collections:Solar:/solar"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "collection_id": "620420057963422eeef6aa37:collections:Queridinhos:/queridinhos",
       "sort": "news",
       "title": "",
