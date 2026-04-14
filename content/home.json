@@ -11,27 +11,30 @@
       "banners": []
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 2,
-      "collection_id": null,
+      "type": "dynamic-showcase",
+      "load_more": false,
       "sort": "news"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": null,
-      "sort": "news",
-      "title": "",
-      "headless": false,
-      "limit": 17,
-      "page": 1
+      "limit": 12,
+      "page": 1,
+      "collection_id": "619d2d4f0c7c72722595e947:categories:Brinco:/brincos"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "619d2ed70c7c72722595ee83:categories:Colares:/colares"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "619d312b0c7c72722595f793:categories:Braceletes:/braceletes"
     }
   ]
 }
