@@ -2138,6 +2138,24 @@
     </url>
   
     <url>
+      <loc>https://www.safh.com/colar-torcida</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.safh.com/copa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.safh.com/queridinhos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.safh.com/brincos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2175,18 +2193,6 @@
   
     <url>
       <loc>https://www.safh.com/objetos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.safh.com/copa</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.safh.com/queridinhos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
