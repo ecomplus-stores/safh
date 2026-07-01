@@ -2234,12 +2234,6 @@
     </url>
   
     <url>
-      <loc>https://www.safh.com/argola-olinda</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.safh.com/brinco-ecos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2372,6 +2366,12 @@
     </url>
   
     <url>
+      <loc>https://www.safh.com/argola-olinda</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.safh.com/brincos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2438,25 +2438,25 @@
     </url>
   
     <url>
-      <loc>https://www.safh.com/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.safh.com/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.safh.com/pages/sobre-nos</loc>
+      <loc>https://www.safh.com/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.safh.com/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.safh.com/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
