@@ -7,7 +7,7 @@ based e-commerce template for
 [E-Com Plus](https://www.e-com.plus)
 stores
 
-> Gerenated from [@ecomplus/storefront-starter](https://github.com/ecomplus/storefront-starter)
+> Generated from [@ecomplus/storefront-starter](https://github.com/ecomplus/storefront-starter)
 
 :scroll: **[Get started](https://github.com/ecomplus/storefront-starter#getting-started)**
 / [Documentation](https://developers.e-com.plus/storefront/)
