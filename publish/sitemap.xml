@@ -2756,18 +2756,6 @@
     </url>
   
     <url>
-      <loc>https://www.safh.com/copa</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.safh.com/queridinhos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.safh.com/brincos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2822,19 +2810,31 @@
     </url>
   
     <url>
+      <loc>https://www.safh.com/copa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.safh.com/queridinhos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.safh.com/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.safh.com/pages/faq</loc>
+      <loc>https://www.safh.com/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.safh.com/pages/entrega</loc>
+      <loc>https://www.safh.com/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2900,6 +2900,12 @@
     </url>
   
     <url>
+      <loc>https://www.safh.com/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
       <loc>https://www.safh.com/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -2909,12 +2915,6 @@
       <loc>https://www.safh.com/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.safh.com/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
